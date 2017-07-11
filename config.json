@@ -1,0 +1,8 @@
+{
+	"server": {
+		"port": 8000
+	},
+
+"algorithm": "aes-256-ctr",
+"password_salt":  "d6F3Efeq"
+}
